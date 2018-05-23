@@ -1,0 +1,8 @@
+{
+  "name": "m3di-calc",
+  "app_id": "31b23d70",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
